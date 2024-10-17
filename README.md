@@ -32,4 +32,5 @@ Welcome to my GitHub, where code meets curiosity! I’m a software developer by 
   </tr>
 </table>
 ---
-[![](https://visitcount.itsvg.in/api?id=NehaSJ99&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=NehaSJ99&color=0)](https://visitcount.itsvg.in]
+
