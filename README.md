@@ -1,4 +1,4 @@
-![Header Image]([https://github.com/Hristinchet0/Hristinchet0/raw/main/README.md](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FHristinchet0%2FHristinchet0%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1x2p3sWqF_qGBIluX3Xe5T&ust=1729230941996000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiV1LDdlIkDFQAAAAAdAAAAABAQ))
+![Header Image](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)
 
 <h1 align="center">
   <b>👋 Hey there! I'm Neha</b>
