@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 Hey there! I'm Neha<br><br>Welcome to my GitHub, where code meets curiosity! I’m a software developer by day and an aspiring product creator by night. Whether I’m building a search engine, optimizing data pipelines, or dreaming up futuristic programmer tools, I’m all about solving real-world problems in creative ways.
+![Header Image](https://github.com/Hristinchet0/Hristinchet0/raw/main/README.md)
 
+<h1 align="center">
+  <b>👋 Hey there! I'm Neha</b>
+</h1>
+
+<p align="center">
+Welcome to my GitHub, where code meets curiosity! I’m a software developer by day and an aspiring product creator by night. Whether I’m building a search engine, optimizing data pipelines, or dreaming up futuristic programmer tools, I’m all about solving real-world problems in creative ways.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehasj99) 
@@ -11,12 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=NehaSJ99&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NehaSJ99&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaSJ99&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NehaSJ99&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NehaSJ99&icon=0&color=0)](https://visitcount.itsvg.in)
