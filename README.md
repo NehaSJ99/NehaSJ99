@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Header Image"/>
-</div>
 
 <h1 align="center">
   <b>👋 Hey there! I'm Neha</b>
@@ -9,6 +6,10 @@
 <p align="center">
 Welcome to my GitHub, where code meets curiosity! I’m a software developer by day and an aspiring product creator by night. Whether I’m building a search engine, optimizing data pipelines, or dreaming up futuristic programmer tools, I’m all about solving real-world problems in creative ways.
 </p>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Header Image"/>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehasj99) 
