@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-Welcome to my GitHub, where code meets curiosity! I’m a software developer by day and an aspiring product creator by night. Whether I’m building a search engine, optimizing data pipelines, or dreaming up futuristic programmer tools, I’m all about solving real-world problems in creative ways.
+Welcome to my GitHub, where code meets curiosity! I’m a software developer by day and an aspiring product creator by night. Whether I’m building a Gen AI Applications, optimizing data pipelines, or dreaming up futuristic programmer tools, I’m all about solving real-world problems in creative ways.
 </p>
 
 <div align="center">
