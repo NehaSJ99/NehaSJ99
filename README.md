@@ -20,7 +20,7 @@ I build AI agents for enterprise teams: multi-agent workflows, RAG pipelines, an
 ## 🚀 Projects worth a look
 - **[mcp](https://github.com/NehaSJ99/mcp)**: an MCP server that serves real-time weather alerts from the National Weather Service API
 - **[databricks-query-bot](https://github.com/NehaSJ99/databricks-query-bot)**: a natural-language SQL assistant for Databricks (LangChain, OpenAI, SQLAlchemy)
-- **[graphRAG](https://github.com/NehaSJ99/graphRAG)**: retrieval over a knowledge graph
+- **[graphRAG](https://github.com/NehaSJ99/graphRAG)**: maps Databricks SQL schemas into a Neo4j knowledge graph for context-rich LLM question answering
 - **[Service_Audit_Agents](https://github.com/NehaSJ99/Service_Audit_Agents)**: multi-agent analysis of customer support tickets (CrewAI)
 - **[HerCare.ai](https://github.com/NehaSJ99/HerCare.ai)**: AI assistant for menstrual health, PearlHack 2025 winner (Best Use of AI)
 
